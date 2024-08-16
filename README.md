@@ -2,7 +2,7 @@
 
 Meu nome é Daniela Blaya
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
 
